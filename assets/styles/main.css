@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/bg.jpg");
+    background-color: #cccccc;
+}
+
+.blabsform{
+    background: white;
+    padding: 10px;  
+}
